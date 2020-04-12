@@ -1,5 +1,5 @@
 # Curso
-UDEMY - Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
+Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN
 
 # Instructor
 Fernando Herrera
